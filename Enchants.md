@@ -16,6 +16,8 @@ This page contains all the custom enchantments' details.
 Axes, Pickaxes, Shovels, Hoes
 ```
 
+<hr>
+
 <h3>Rejuvenation</h3>
 
 > Slowly regenerates durability while moving
@@ -27,6 +29,8 @@ Axes, Pickaxes, Shovels, Hoes
 ```
 Everything
 ```
+
+<hr>
 
 <h3>Lava Walker</h3>
 
@@ -40,6 +44,8 @@ Everything
 Boots
 ```
 
+<hr>
+
 <h3>Shielding</h3>
 
 > Has a 20-40% chance to deflect projectiles that would normally hit you
@@ -51,6 +57,8 @@ Boots
 ```
 Chestplates
 ```
+
+<hr>
 
 <h3>Neutralizer</h3>
 
@@ -64,6 +72,8 @@ Chestplates
 Shields
 ```
 
+<hr>
+
 <h3>Potency</h3>
 
 > Any potion you drink will have their duration reduced by 20-40%, but have their amplifiers increased by I-II
@@ -75,6 +85,8 @@ Shields
 ```
 Chestplates, Shields, Elytra
 ```
+
+<hr>
 
 <h3>Steady</h3>
 
@@ -88,6 +100,8 @@ Chestplates, Shields, Elytra
 Leggings
 ```
 
+<hr>
+
 <h3>Illuminated</h3>
 
 > Shift-Right click with a pickaxe on an empty surface to place a torch at the cost of 3 durability
@@ -99,6 +113,8 @@ Leggings
 ```
 Pickaxes
 ```
+
+<hr>
 
 <h3>Harvesting</h3>
 
@@ -112,6 +128,8 @@ Pickaxes
 Hoes
 ```
 
+<hr>
+
 <h3>Kinship</h3>
 
 > If the pickaxe matches the material of the ore you're mining, some durability is restored. stone:0-0-0, iron:1-2-3, diamond:10-20-30, netherite:50-100-150
@@ -123,6 +141,8 @@ Hoes
 ```
 Pickaxes
 ```
+
+<hr>
 
 <h3>Metabolism</h3>
 
@@ -136,6 +156,8 @@ Pickaxes
 Helmets, Chestplates, Leggings, Boots
 ```
 
+<hr>
+
 <h3>Vigorous</h3>
 
 > Adds 1 per level extra max health to the wearer
@@ -147,6 +169,8 @@ Helmets, Chestplates, Leggings, Boots
 ```
 Helmets, Chestplates, Leggings, Boots
 ```
+
+<hr>
 
 <h3>Plating</h3>
 
@@ -160,6 +184,8 @@ Helmets, Chestplates, Leggings, Boots
 Elytra
 ```
 
+<hr>
+
 <h3>Sunforged</h3>
 
 > Smelts blocks mined
@@ -171,6 +197,8 @@ Elytra
 ```
 Axes, Pickaxes, Shovels, Hoes
 ```
+
+<hr>
 
 <h3>Wings</h3>
 
@@ -184,6 +212,8 @@ Axes, Pickaxes, Shovels, Hoes
 Boots
 ```
 
+<hr>
+
 <h3>Fleeting</h3>
 
 > Grants the wearer speed boost I-II while wearing
@@ -195,6 +225,8 @@ Boots
 ```
 Boots
 ```
+
+<hr>
 
 <h3>Basalt Skin</h3>
 
@@ -208,6 +240,8 @@ Boots
 Chestplates
 ```
 
+<hr>
+
 <h3>Leaping</h3>
 
 > Grants the wearer jump boost I-II while wearing
@@ -219,6 +253,8 @@ Chestplates
 ```
 Boots
 ```
+
+<hr>
 
 <h3>Blessing</h3>
 
@@ -232,6 +268,8 @@ Boots
 Chestplates
 ```
 
+<hr>
+
 <h3>Piercing</h3>
 
 > Tridents do 0.75-1.5-2.25-3.0-3.75 more damage
@@ -243,6 +281,8 @@ Chestplates
 ```
 Tridents
 ```
+
+<hr>
 
 <h3>Grappling</h3>
 
@@ -256,6 +296,8 @@ Tridents
 Fishing rods
 ```
 
+<hr>
+
 <h3>Nightvision</h3>
 
 > Grants the player night vision while wearing
@@ -267,6 +309,8 @@ Fishing rods
 ```
 Helmets
 ```
+
+<hr>
 
 <h3>Gills</h3>
 
@@ -280,6 +324,8 @@ Helmets
 Helmets
 ```
 
+<hr>
+
 <h3>Quickened</h3>
 
 > Grants the player haste I-II while holding
@@ -291,6 +337,8 @@ Helmets
 ```
 Swords, Pickaxes, Shovels, Axes, Hoes
 ```
+
+<hr>
 
 <h3>Barbarian</h3>
 
@@ -304,6 +352,8 @@ Swords, Pickaxes, Shovels, Axes, Hoes
 Axes
 ```
 
+<hr>
+
 <h3>Vitality</h3>
 
 > Increases the wearer/holder's healing by 5% per level, adding up all vitality you have on all pieces of armor up to 100%.
@@ -315,6 +365,8 @@ Axes
 ```
 Helmets, Chestplates, Leggings, Boots
 ```
+
+<hr>
 
 <h3>Withering</h3>
 
@@ -328,6 +380,8 @@ Helmets, Chestplates, Leggings, Boots
 Swords, Bows, Crossbows
 ```
 
+<hr>
+
 <h3>Poisoning</h3>
 
 > Has a 5-10-15% chance to inflict the entity you're damaging with Poison
@@ -339,6 +393,8 @@ Swords, Bows, Crossbows
 ```
 Swords, Bows, Crossbows
 ```
+
+<hr>
 
 <h3>Weakening</h3>
 
@@ -352,6 +408,8 @@ Swords, Bows, Crossbows
 Swords, Bows, Crossbows
 ```
 
+<hr>
+
 <h3>Blunt</h3>
 
 > Has a 2-4% chance to inflict the entity you're damaging with a stun
@@ -363,6 +421,8 @@ Swords, Bows, Crossbows
 ```
 Swords, Bows, Crossbows, Axes, Pickaxes
 ```
+
+<hr>
 
 <h3>Crippling</h3>
 
@@ -376,6 +436,8 @@ Swords, Bows, Crossbows, Axes, Pickaxes
 Swords, Bows, Crossbows
 ```
 
+<hr>
+
 <h3>Blinding</h3>
 
 > Has a 2-4-6% chance to inflict the entity you're damaging with Blindness
@@ -387,6 +449,8 @@ Swords, Bows, Crossbows
 ```
 Swords, Bows, Crossbows, Axes
 ```
+
+<hr>
 
 <h3>Volatile Fuel</h3>
 
@@ -400,6 +464,8 @@ Swords, Bows, Crossbows, Axes
 Elytras
 ```
 
+<hr>
+
 <h3>Concussion</h3>
 
 > Has a 3-5% chance to inflict the entity you're damaging with Nausea
@@ -411,6 +477,8 @@ Elytras
 ```
 Swords, Bows, Crossbows
 ```
+
+<hr>
 
 <h3>Toxic</h3>
 
@@ -424,6 +492,8 @@ Swords, Bows, Crossbows
 Crossbows, Bows, Swords
 ```
 
+<hr>
+
 <h3>Crushing</h3>
 
 > For each piece of diamond/netherite armor the enemy is wearing, you deal 2.5-3.75-5% more damage
@@ -435,6 +505,8 @@ Crossbows, Bows, Swords
 ```
 Crossbows, Axes
 ```
+
+<hr>
 
 <h3>Scattershot</h3>
 
@@ -448,6 +520,8 @@ Crossbows, Axes
 Crossbows, Bows
 ```
 
+<hr>
+
 <h3>Sapping</h3>
 
 > Killing an entity adds a 40-60% chance of dropping 1-2 more EXP
@@ -459,6 +533,8 @@ Crossbows, Bows
 ```
 Swords, Axes
 ```
+
+<hr>
 
 <h3>Soul Eater</h3>
 
@@ -472,6 +548,8 @@ Swords, Axes
 Swords, Axes
 ```
 
+<hr>
+
 <h3>Executioner</h3>
 
 > Killing an entity adds a 1-2% chance of dropping its head. Works with creepers, skeletons, players, etc.
@@ -483,6 +561,8 @@ Swords, Axes
 ```
 Swords, Axes
 ```
+
+<hr>
 
 <h3>Soulbound</h3>
 
@@ -496,6 +576,8 @@ Swords, Axes
 Everything
 ```
 
+<hr>
+
 <h3>Shockwave</h3>
 
 > Right clicking on the upper surface of a block causes a shockwave that sends entities flying backwards in a radius of 3-4 blocks, with a strength of 0.5-0.7
@@ -507,6 +589,8 @@ Everything
 ```
 Swords, Axes
 ```
+
+<hr>
 
 <h3>Brittle</h3>
 
@@ -520,6 +604,8 @@ Swords, Axes
 Everything
 ```
 
+<hr>
+
 <h3>Burden</h3>
 
 > Curse enchant that, while holding/wearing, slows the holder/wearer down and gives them mining fatigue
@@ -532,6 +618,8 @@ Everything
 Everything
 ```
 
+<hr>
+
 <h3>Parasitic</h3>
 
 > Curse enchant that slowly eats away at your hunger
@@ -543,6 +631,8 @@ Everything
 ```
 Helmets, Chestplates, Leggings, Boots
 ```
+
+<hr>
 
 <h3>Curse of Rage</h3>
 
